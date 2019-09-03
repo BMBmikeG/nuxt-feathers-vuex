@@ -39,7 +39,7 @@
     "@feathersjs/feathers": "^4.3.0",
     "@feathersjs/socketio-client": "^1.1.0",
     "cookie-storage": "^3.1.0",
-    "feathers-vuex": "^2.0.0",
+    "feathers-vuex": "^2.0.0-pre.75",
     "socket.io-client": "^2.1.1"
   },
   "devDependencies": {
